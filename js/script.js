@@ -1,0 +1,13 @@
+const age = 13;
+console.log(age);
+const name = "Антон";
+console.log(name);
+const isStudent = true;
+console.log(isStudent);
+const myString = "Йди завжди до кінця";
+console.log(myString);
+let myNumber = 6;
+myNumber = myNumber + 4;
+console.log(myNumber);
+const myNull = null;
+console.log(null);
